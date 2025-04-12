@@ -2,7 +2,7 @@
 ## Authors
 ### Yuxuan Wei, Xiao Chen, Zhaohui Yang, Jianfeng Shi, Hao Jiang, Cunhua Pan and Feng Shu, Jiajia Liu
 ## Code
-### 
+### https://github.com/Wei-nl/SC
 
 ## The function of each file
 
