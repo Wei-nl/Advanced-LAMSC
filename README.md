@@ -11,4 +11,4 @@
 ### transmission_model.py: Definition of the the whole transmission process.
 ### training_process.py: Train semantic codec, channel codec, and mask network.
 ### transmit.py: Transfer images over a trained network.
-### SSIM.py: Calculate the SSIM value of the image before and after transmission.
+### SSIM.py: Calculate the SSIM values of the images before and after transmission.
