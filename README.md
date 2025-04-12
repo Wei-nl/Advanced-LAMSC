@@ -6,9 +6,9 @@
 
 ## The function of each file
 
-channel_codec.py: Definition of the channel encoder, channel decoder, and channel.
-semantic_codec_mask: Definition of the semantic encoder, semantic decoder, and mask network.
-transmission_model.py: Definition of the the whole transmission process.
-training_process.py: Train semantic codec, channel codec, and mask network.
-transmit.py: Transfer images over a trained network.
-SSIM.py: Calculate the SSIM value of the image before and after transmission.
+### channel_codec.py: Definition of the channel encoder, channel decoder, and channel.
+### semantic_codec_mask: Definition of the semantic encoder, semantic decoder, and mask network.
+### transmission_model.py: Definition of the the whole transmission process.
+### training_process.py: Train semantic codec, channel codec, and mask network.
+### transmit.py: Transfer images over a trained network.
+### SSIM.py: Calculate the SSIM value of the image before and after transmission.
